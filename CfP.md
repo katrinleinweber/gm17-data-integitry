@@ -2,7 +2,7 @@ https://cfp.githubapp.com/events/git-merge-2017/proposals/new
 
 # Title
 
-Let's put the git into pharmaceutical data integrity!
+Pharmaceutical data inte_git_ry!
 
 # Abstract
 
