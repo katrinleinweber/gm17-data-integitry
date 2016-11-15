@@ -10,10 +10,10 @@ Pharma is heavily regulated because _their_ APIs literally get under your skin (
 
 Scouring publicly available guidance documents for data integrity requirements (e.g. from [EMA](http://www.ema.europa.eu/ema/index.jsp?curl=pages/regulation/q_and_a/q_and_a_detail_000027.jsp#section16), [FDA](https://www.regulations.gov/document?D=FDA-2016-D-1113-0002) & [MHRA](https://www.gov.uk/government/publications/good-manufacturing-practice-data-integrity-definitions)), we'll see how the latter often map well to existing functionality of Git & Co. (e.g. "audit trail review" = pull requests). Moreover, we'll explore potential hurdles for Git in the pharmaceutical industry, and discuss solution ideas.
 
-# Details
+# Details (Explain theme & flow! Audience takeaways?)
 
+There seems to be a parallel universe of "audit trailing" and "change controlling" digital files in the pharma industry. I want to connect these universes, because whenever I read a guidance document on pharmaceutical data integrity, my head rings with recognition.
 
+# Pitch (Why pertinent? Your involvement?)
 
-# Pitch
-
-
+I work in laboratory automation for a year now, and found no one who had heard of Git-based version control. Similarly, the Git users and science-related software developers I asked, didn't know how pharma required pretty much the same tools and workflows that the former already used.
