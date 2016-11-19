@@ -6,9 +6,9 @@ Data Inte`git`ry for the Pharmaceutical Industry
 
 # Abstract (600)
 
-Pharma is strictly regulated because _their_ APIs literally get under your skin (**a**ctive **p**harmaceutical **i**ngredients). That regulation currently focusses on the integrity of electronic records, because they are relevant for assessing an API's quality and safety. Such records and the certified, "21 CFR part 11"-compliant software that handles them are in need of version control! Some tacked-on "audit trail" just doesn't cut it any more.
+Pharma is strictly regulated because _their_ APIs literally get under your skin (**a**ctive **p**harmaceutical **i**ngredients). Regulators currently focus on the integrity of electronic records, because they are relevant for assessing an API's quality and safety. Such records and the certified, "21 CFR part 11"-compliant software that handles them are in need of version control! Some tacked-on "audit trail" just doesn't cut it anymore.
 
-Scouring regulatory documents (by [EMA](http://www.ema.europa.eu/ema/index.jsp?curl=pages/regulation/q_and_a/q_and_a_detail_000027.jsp#section16), [FDA](https://www.regulations.gov/document?D=FDA-2016-D-1113-0002) & [MHRA](https://www.gov.uk/government/publications/good-manufacturing-practice-data-integrity-definitions)), we'll find that data integrity requirements often map well to basic functionality of Git & Co. Pharma asks: "audit trail reviews?" We answer: pull requests! However, there may also be hurdles to overcome. We'll explore them and discuss solution ideas.
+Scouring regulatory documents (for example by [EMA](http://www.ema.europa.eu/ema/index.jsp?curl=pages/regulation/q_and_a/q_and_a_detail_000027.jsp#section16), [FDA](https://www.regulations.gov/document?D=FDA-2016-D-1113-0002) & [MHRA](https://www.gov.uk/government/publications/good-manufacturing-practice-data-integrity-definitions)), we'll find that data integrity requirements often map well to basic functionality of Git & Co. Pharma asks: "audit trail reviews?" We answer: Erm, pull requests!?!
 
 # Details (Explain theme & flow! Audience takeaways?)
 
