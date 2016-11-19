@@ -12,7 +12,7 @@ Scouring regulatory documents (for example by [EMA](http://www.ema.europa.eu/ema
 
 # Details (Explain theme & flow! Audience takeaways?)
 
-The software industry adopted randomized, (placebo-)controlled trials (RCTs) from pharma and perfected them as A/B-tests. I think it's fair to say that  that these, together with version control catalysed collaborative software engineering and the app economy. Although the pharmaceutical industry has of course applied software in many ways, which similarly fundamental technology transfer is there? I believe that Git-based version control is _the_ candidate to be adopted and to perfect the audit trail. 
+The software industry adopted randomised, (placebo-)controlled trials (RCTs) from pharma and perfected them as A/B-tests. I think it's fair to say that  that these, together with version control catalysed collaborative software engineering and the app economy. Although the pharmaceutical industry has of course applied software in many ways, which similarly fundamental technology transfer is there? I believe that Git-based version control is _the_ candidate to be adopted in order to perfect the audit trail. 
 
 # Pitch (Why pertinent? Your involvement?)
 
