@@ -8,6 +8,14 @@
 
 ###### CC-BY-4.0 
 
+#HSLIDE
+
+![](img/pharma-IT-orly.png)
+
+- API = Active Pharmaceutical Ingredient  <!-- .element: class="fragment" -->
+- CSV = Computer Systems Validation  <!-- .element: class="fragment" -->
+- GMP = Good Manufacturing Practice  <!-- .element: class="fragment" -->
+
 #HSLIDE?image=img/data-integrity-trends.png
 
 #HSLIDE
