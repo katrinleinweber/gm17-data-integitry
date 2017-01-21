@@ -6,7 +6,7 @@ Data Inte`git`ry for the Pharmaceutical Industry
 
 # Abstract (600)
 
-Pharma is strictly regulated because _their_ APIs literally get under your skin (**a**ctive **p**harmaceutical **i**ngredients). Regulatory agency are increasingly zeroing in on "data integrity", because it is highly relevant for assessing an API's chemical purity, stability during storage, and of course its safety for patients.
+Pharma is strictly regulated because _their_ APIs literally get under your skin (**a**ctive **p**harmaceutical **i**ngredients). Regulatory agency are increasingly zeroing in on "data integrity", because it is necessary to prove an API's chemical purity, stability during storage, thus its safety for patients, and of course it's pharmaceutical effectiveness.
 
 Scouring regulatory documents (for example by [EMA](http://www.ema.europa.eu/ema/index.jsp?curl=pages/regulation/q_and_a/q_and_a_detail_000027.jsp#section16), [FDA](https://www.regulations.gov/document?D=FDA-2016-D-1113-0002) & [MHRA](https://www.gov.uk/government/publications/good-manufacturing-practice-data-integrity-definitions)), we'll find that data integrity requirements often map well to basic functionality of Git & Co. Pharma asks: "Audit trail?" We answer: "Erm, commit history!?!"
 
