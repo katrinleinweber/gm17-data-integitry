@@ -4,13 +4,13 @@
 
 #### Git Merge 2017 Brussels 
 
-#### Katrin Leinweber
+#### Katrin Leinweber ([@KaLeiMai](https://twitter.com/kaleimai/))
 
 ###### CC-BY-4.0 
 
 #HSLIDE?image=img/data-integrity-trends.png
 
-#VSLIDE
+#HSLIDE
 
 ### Data integrity nightmares
 
@@ -24,27 +24,44 @@
 
 #HSLIDE
 
+### ALCOA(-plus) principle of data integrity 
+
+- *A*ttributable
+- *L*egible
+- *C*ontemporaneously recorded
+- *O*riginal or true copy
+- *A*ccurate
+- **plus:** complete, consistent, enduring & available  <!-- .element: class="fragment" -->
+
+-- World Health Organisation: [Guidance on good data and record management practices](http://www.who.int/medicines/publications/pharmprep/WHO_TRS_996_annex05.pdf)
+
+#HSLIDE
+
 ### Solution
 
-##### Change control and audit trails for everything (work instructions, raw measurement data, analytical methods, etc.)
+Change control and audit trails for everything (work instructions, raw measurement data, analytical methods, etc.)
 
-> […] secure, computer-generated, time-stamped electronic record that allows for reconstruction of the course of events relating to the creation, modification, or deletion of an electronic record. 
+> […] secure, computer-generated, time-stamped electronic record that allows for reconstruction of the course of events relating to the creation, modification, or deletion […] 
 
 > […] chronology of the “who, what, when, and why” 
 
 –- [FDA "Data Integrity…" draft guidance](http://www.fda.gov/downloads/drugs/guidancecomplianceregulatoryinformation/guidances/ucm495891.pdf)
 
-#VSLIDE
+#HSLIDE
 
-# Existing pharma-specific software can do this… Kinda… Sometimes…
+### Pharma-specific software can do this…
 
-#VSLIDE
+### Sometimes…  <!-- .element: class="fragment" -->
 
-### comparing ALCOA principle of data integrity with Git's features 
+### Kinda…  <!-- .element: class="fragment" -->
 
-- *A*ttributable => commit author <!-- .element: class="fragment" -->
-- *L*egible => content-agnostic, right?  <!-- .element: class="fragment" -->
-- *C*ontemporaneously recorded => automatic commits <!-- .element: class="fragment" -->
+#HSLIDE
+
+### mapping regulatory requirements to Git's features 
+
+- *A*ttributable => commit author
+- *L*egible => content-agnostic, both human- & machine readable, right?  <!-- .element: class="fragment" -->
+- *C*ontemporaneously recorded => prompted or automatic commits <!-- .element: class="fragment" -->
 - *O*riginal or true copy => digital & hashed <!-- .element: class="fragment" -->
 - *A*ccurate => down to line & character <!-- .element: class="fragment" -->
 
@@ -52,12 +69,10 @@
 
 
 
-#VSLIDE
+#HSLIDE
 
 
 
-#VSLIDE
+#HSLIDE
 
-
-
-#VSLIDE
+# Thanks for your attention!
