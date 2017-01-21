@@ -1,12 +1,12 @@
 #HSLIDE
 
-# Data Inte`git`ry for the Pharmaceutical Industry
+## Data Inte`git`ry for the Pharmaceutical Industry
 
-## Git Merge 2017 Brussels 
+#### Git Merge 2017 Brussels 
 
-### Katrin Leinweber
+#### Katrin Leinweber
 
-### CC-BY-4.0 
+###### CC-BY-4.0 
 
 #HSLIDE?image=img/data-integrity-trends.png
 
