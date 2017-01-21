@@ -71,7 +71,13 @@ Change control and audit trails for everything (work instructions, raw measureme
 
 #HSLIDE
 
+### Brainstorming
 
+How to adopt Git in the pharmaceutical industry?
+
+- no history-altering functions (`amend`, `filter-branch`…), or alerts  <!-- .element: class="fragment" -->
+- meta-data staged & committed independently of content <!-- .element: class="fragment" -->
+- hash-only remotes for regulatory surveillance <!-- .element: class="fragment" -->
 
 #HSLIDE
 
