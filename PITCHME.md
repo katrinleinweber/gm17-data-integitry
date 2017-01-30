@@ -8,14 +8,6 @@
 
 ###### CC-BY-4.0 
 
-#HSLIDE
-
-![](img/pharma-IT-orly.png)
-
-- API = Active Pharmaceutical Ingredient  <!-- .element: class="fragment" -->
-- CSV = Computer Systems Validation  <!-- .element: class="fragment" -->
-- GMP = Good Manufacturing Practice  <!-- .element: class="fragment" -->
-
 #HSLIDE?image=img/data-integrity-trends.png
 
 #HSLIDE
@@ -86,6 +78,14 @@ How to adopt Git in the pharmaceutical industry?
 - no history-altering functions (`amend`, `filter-branch`…), or alerts  <!-- .element: class="fragment" -->
 - meta-data staged & committed independently of content <!-- .element: class="fragment" -->
 - hash-only remotes for regulatory surveillance <!-- .element: class="fragment" -->
+
+#HSLIDE
+
+![](img/pharma-IT-orly.png)
+
+- API = Active Pharmaceutical Ingredient  <!-- .element: class="fragment" -->
+- CSV = Computer Systems Validation  <!-- .element: class="fragment" -->
+- GMP = Good Manufacturing Practice  <!-- .element: class="fragment" -->
 
 #HSLIDE
 
