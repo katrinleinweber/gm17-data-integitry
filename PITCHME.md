@@ -20,20 +20,7 @@
 
 > raw data files in the recycle bin […] even in the presence of 'Do Not Delete Any Data' notes [[…]](http://www.fda.gov/iceci/enforcementactions/warningletters/ucm455345.htm)
 
-– [Warning letters](http://google2.fda.gov/search?as_sitesearch=www.fda.gov/iceci/enforcementactions/warningletters&q=%22data+integrity%22+inmeta:search_topic%3DWarning%2520Letters&client=FDAgov&output=xml_no_dtd&proxystylesheet=FDAgov&site=FDAgov&getfields=*&requiredfields=-archive:Yes&partialfields=&filter=1&dnavs=inmeta:search_topic%3DWarning%2520Letters&sort=date:D:S:d1) from the U.S. Food & Drug Administration to companies.
-
-#HSLIDE
-
-### ALCOA(-plus) principle of data integrity 
-
-- *A*ttributable
-- *L*egible
-- *C*ontemporaneously recorded
-- *O*riginal or true copy
-- *A*ccurate
-- **plus:** complete, consistent, enduring & available  <!-- .element: class="fragment" -->
-
--- World Health Organisation: [Guidance on good data and record management practices](http://www.who.int/medicines/publications/pharmprep/WHO_TRS_996_annex05.pdf)
+-– [Warning letters](http://google2.fda.gov/search?as_sitesearch=www.fda.gov/iceci/enforcementactions/warningletters&q=%22data+integrity%22+inmeta:search_topic%3DWarning%2520Letters&client=FDAgov&output=xml_no_dtd&proxystylesheet=FDAgov&site=FDAgov&getfields=*&requiredfields=-archive:Yes&partialfields=&filter=1&dnavs=inmeta:search_topic%3DWarning%2520Letters&sort=date:D:S:d1) from the U.S. Food & Drug Administration to companies.
 
 #HSLIDE
 
@@ -59,13 +46,17 @@ Change control and audit trails for everything (work instructions, raw measureme
 
 #HSLIDE
 
-### mapping regulatory requirements to Git's features 
+### Regulatory requirements mapped to Git's features 
 
 - *A*ttributable => commit author
 - *L*egible => content-agnostic, both human- & machine readable, right?  <!-- .element: class="fragment" -->
-- *C*ontemporaneously recorded => prompted or automatic commits <!-- .element: class="fragment" -->
+- *C*ontemporaneously recorded => same as on paper, but prompts & automation possible <!-- .element: class="fragment" -->
 - *O*riginal or true copy => digital & hashed <!-- .element: class="fragment" -->
 - *A*ccurate => down to line & character <!-- .element: class="fragment" -->
+
+- **plus:** complete, consistent, enduring & available  <!-- .element: class="fragment" -->
+
+-- World Health Organisation: [Guidance on good data and record management practices](http://www.who.int/medicines/publications/pharmprep/WHO_TRS_996_annex05.pdf)
 
 #HSLIDE
 
