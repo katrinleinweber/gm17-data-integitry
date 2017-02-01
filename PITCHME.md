@@ -60,17 +60,21 @@ Change control and audit trails for everything (work instructions, raw measureme
 
 #HSLIDE
 
+### Brainstorming hurdles to Git adoption in pharma
 
+- history-altering functions (`amend`, `filter-branch`…), or alerts  <!-- .element: class="fragment" -->
+- file meta-data not staged & committed alongside content <!-- .element: class="fragment" -->
+- compile for embedded systems
 
 #HSLIDE
 
-### Brainstorming
+### Brainstorming killer applications for Git in pharma
 
-How to adopt Git in the pharmaceutical industry?
+- best-in-class audit trail addons/plugins for existing software
+- enable regulatory verification with anonymous attestation (0-knowledge proof + blind signature)[^aa], "hash-only remotes/mirrors", etc. <!-- .element: class="fragment" -->
+- visual hook/automation/workflow designer (BPML)
 
-- no history-altering functions (`amend`, `filter-branch`…), or alerts  <!-- .element: class="fragment" -->
-- meta-data staged & committed independently of content <!-- .element: class="fragment" -->
-- hash-only remotes for regulatory surveillance <!-- .element: class="fragment" -->
+[^aa]: Technologien für und wider Digitale Souveränität (33c3)
 
 #HSLIDE
 
