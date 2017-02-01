@@ -49,11 +49,13 @@ Change control and audit trails for everything (work instructions, raw measureme
 
 #HSLIDE
 
-### Pharma-specific software can do this…
+## Pharma-specific software can do this…
 
-### Sometimes…  <!-- .element: class="fragment" -->
+#### Sometimes…  <!-- .element: class="fragment" -->
 
-### Kinda…  <!-- .element: class="fragment" -->
+###### Kinda…  <!-- .element: class="fragment" -->
+
+## Problems: few users, no or little agility, abysmal UX <!-- .element: class="fragment" -->
 
 #HSLIDE
 
