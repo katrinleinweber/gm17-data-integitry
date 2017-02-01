@@ -87,3 +87,5 @@ Change control and audit trails for everything (work instructions, raw measureme
 #HSLIDE
 
 # Thanks for your attention!
+
+#### Further info: [ISPE GAMP](http://www.ispe.org/gamp-resources), [US 21 CFR part 11](http://www.ecfr.gov/cgi-bin/text-idx?&node=pt21.1.11)
