@@ -20,17 +20,15 @@
 
 > raw data files in the recycle bin […] even in the presence of 'Do Not Delete Any Data' notes [[…]](http://www.fda.gov/iceci/enforcementactions/warningletters/ucm455345.htm)
 
--– [Warning letters](http://google2.fda.gov/search?as_sitesearch=www.fda.gov/iceci/enforcementactions/warningletters&q=%22data+integrity%22+inmeta:search_topic%3DWarning%2520Letters&client=FDAgov&output=xml_no_dtd&proxystylesheet=FDAgov&site=FDAgov&getfields=*&requiredfields=-archive:Yes&partialfields=&filter=1&dnavs=inmeta:search_topic%3DWarning%2520Letters&sort=date:D:S:d1) from the U.S. Food & Drug Administration to companies.
+-– [FDA warning letters](http://google2.fda.gov/search?as_sitesearch=www.fda.gov/iceci/enforcementactions/warningletters&q=%22data+integrity%22+inmeta:search_topic%3DWarning%2520Letters&client=FDAgov&output=xml_no_dtd&proxystylesheet=FDAgov&site=FDAgov&getfields=*&requiredfields=-archive:Yes&partialfields=&filter=1&dnavs=inmeta:search_topic%3DWarning%2520Letters&sort=date:D:S:d1)
 
 #HSLIDE
 
 ### Solution
 
-Change control and audit trails for everything (work instructions, raw measurement data, analytical methods, etc.)
+Change control & audit trails for work instructions, measurement data, analytical methods, etc.
 
-> […] secure, computer-generated, time-stamped electronic record that allows for reconstruction of the course of events relating to the creation, modification, or deletion […] 
-
-> […] chronology of the “who, what, when, and why” 
+> […] secure, computer-generated, time-stamped electronic record that allows for reconstruction of […] creation, modification, or deletion […] chronology of the “who, what, when, and why” 
 
 –- [FDA "Data Integrity…" draft guidance](http://www.fda.gov/downloads/drugs/guidancecomplianceregulatoryinformation/guidances/ucm495891.pdf)
 
