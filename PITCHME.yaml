@@ -1,0 +1,3 @@
+.reveal .slides {
+    width: 1280px;
+}
