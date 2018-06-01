@@ -4,7 +4,7 @@
 
 #### Git Merge 2017 Brussels 
 
-#### Katrin Leinweber ([@KaLeiMai](https://twitter.com/kaleimai/))
+#### Katrin Leinweber
 
 ###### CC-BY-4.0 
 
