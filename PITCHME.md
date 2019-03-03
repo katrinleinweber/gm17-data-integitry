@@ -52,27 +52,23 @@ Change control & audit trails for work instructions, measurement data, analytica
 - Original or true copy => digital & hashed  <!-- .element: class="fragment" -->
 - Accurate => down to line & character  <!-- .element: class="fragment" -->
 
-- plus: complete, consistent, enduring & available  <!-- .element: class="fragment" -->
-
 -- World Health Organisation: [Guidance on good data and record management practices](http://www.who.int/medicines/publications/pharmprep/WHO_TRS_996_annex05.pdf)
 
 #HSLIDE
 
 ### Brainstorming hurdles to Git adoption in pharma
 
-- history-altering functions (`amend`, `filter-branch`…), or alerts
+- remove history-altering functions (`amend`, `filter-branch`…)
+  - or audit-trail their use  <!-- .element: class="fragment" -->
 - file meta-data not staged & committed alongside content  <!-- .element: class="fragment" -->
-- compile for embedded systems  <!-- .element: class="fragment" -->
 
 #HSLIDE
 
 ### Brainstorming killer applications for Git in pharma
 
 - best-in-class audit trail addons/plugins for existing software
-- enable regulatory verification with anonymous attestation (0-knowledge proof + blind signature)[^aa], "hash-only remotes/mirrors", etc. <!-- .element: class="fragment" -->
+- enable regulatory verification with anonymous attestation (0-knowledge proofs + blind signature), "hash-only remotes/mirrors", etc. <!-- .element: class="fragment" -->
 - visual hook/automation/workflow designer (BPML)  <!-- .element: class="fragment" -->
-
-[^aa]: Technologien für und wider Digitale Souveränität (33c3)
 
 #HSLIDE
 
